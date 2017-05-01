@@ -1,3 +1,4 @@
 #+TITLE: Master Missy
 
-   + [[file:about.org][2017-04-28 About me]]
+   + [[file:the-master.org][2017-05-01 The Master(米西)]]
+   + [[file:about.org][2017-04-30 About me]]
